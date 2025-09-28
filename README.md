@@ -32,7 +32,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-### Backend
+### Frontend
 ```bash
 cd frontend
 npm install
