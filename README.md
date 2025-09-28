@@ -39,6 +39,6 @@ npm install
 npm run dev
 ```
 
-**Future Work**
--Deploy to cloud (AWS)
--Add leaderboard and community features
+## Future Work
+- Deploy to cloud (AWS)
+- Add leaderboard and community features
