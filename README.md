@@ -30,3 +30,11 @@ Full-stack application for tracking and rewarding sustainable daily habits. Buil
 cd backend
 mvn clean install
 mvn spring-boot:run
+'''
+
+### Backend
+'''bash
+cd frontend
+npm install
+npm run dev
+'''
